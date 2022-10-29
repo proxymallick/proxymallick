@@ -8,7 +8,7 @@ Before/While joining Ardea, I graduated Ph.D. in Electrical Engineering from Uni
 Before my Ph.D. studies I did my Masters of Engineering in Mechatronics from University of Melbourne in 2017 where I was introduced to the world of applied maths and operations research which made me pursue the Ph.D. in optimisation and machine learning.
 
 Prior to that I was working as an electrical excavation engineer at India's biggest coal mining company, i.e., Coal India Limited from 2012-2015, immediately after graduating from National Institute of Technology, Rourkela as an electrical engineer, where I was involved with collating mine data, reporting, documenting, the work profile of complex electrical machineries and also with the supervision of heavy engineering equipment in open cast coal mine. I was also involved with near term forecasts of breakdown of electrical machinery and protective circuits.
-- 🌱 I’m currently working at AIML (Australian Institute of Machine Learning)
+- 🌱 I’m currently working at AIML (Australian Institute of Machine Learning) researching on universal domain adaptation and trying to develop novel machine learning techniques for signal processing.
 
 <!---
 proxymallick/proxymallick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
