@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Prakash
-- 👀 I am passionate about research topics related to linear and non-linear control theory, system identification, supervised learning, deep reinforcement learning, stochastic optimal control, probabilistic inference, dynamics of robots, Algorithms, data structures.
+- 👋 Hi, I’m Prakash Mallick,
+I am passionate about research topics related to linear and non-linear control theory, system identification, supervised learning, deep reinforcement learning, stochastic optimal control, probabilistic inference, dynamics of robots, Algorithms, data structures.
 
 Previously, I worked as a Quantitative Engineer/Researcher in the Research team of Ardea Investment Management. While I was working at Ardea, my responsibilities included but were not limited to collaborating with academics, economists, portfolio managers and other research analysts to deliver market leading analysis for our clients. I utilised my statistical and machine learning research and computing expertise to create valuable business tools and utilise the state-of-the-art-optimisation models, complex data structures and performant machine learning algorithms to deliver solutions to client requests.
 
