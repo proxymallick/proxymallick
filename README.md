@@ -1,6 +1,6 @@
 # Prakash Mallick's GitHub Profile
 
-<div align="center">
+<div align="left">
   
 ![wave](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png)
   
