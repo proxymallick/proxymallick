@@ -1,5 +1,11 @@
 # Prakash Mallick's GitHub Profile
 
+<div align="center">
+  
+![wave](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png)
+  
+</div>
+
 ## Introduction
 Hi, I’m Prakash Mallick, a researcher with a passion for topics related to control theory, machine learning, robotics, and data structures.
 
@@ -12,6 +18,12 @@ Hi, I’m Prakash Mallick, a researcher with a passion for topics related to con
 - Currently a researcher at AIML (Australian Institute of Machine Learning) 
   - Focusing on universal domain adaptation and trying to develop novel machine learning techniques for signal processing.
 
+<div align="center">
+  
+![computer](https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png)
+  
+</div>
+
 ## Education
 - Ph.D. in Electrical Engineering from University of Newcastle, Australia in 2022
   - Research focused on optimal control theory and machine learning applied to unknown dynamical systems, mainly in robotic applications.
@@ -19,6 +31,12 @@ Hi, I’m Prakash Mallick, a researcher with a passion for topics related to con
 - Masters of Engineering in Mechatronics from University of Melbourne in 2017
   - Introduced to the world of applied maths and operations research which led me to pursue a Ph.D. in optimisation and machine learning.
 - Electrical Engineering from National Institute of Technology, Rourkela in 2012
+
+<div align="center">
+  
+![rocket](https://github.githubassets.com/images/icons/emoji/unicode/1f680.png)
+  
+</div>
 
 ## Skills and Expertise
 - Linear and non-linear control theory
