@@ -18,7 +18,7 @@ Hi, I’m Prakash Mallick, a researcher with a passion for topics related to con
 - Currently a researcher at AIML (Australian Institute of Machine Learning) 
   - Focusing on universal domain adaptation and trying to develop novel machine learning techniques for signal processing.
 
-<div align="center">
+<div align="left">
   
 ![computer](https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png)
   
@@ -32,7 +32,7 @@ Hi, I’m Prakash Mallick, a researcher with a passion for topics related to con
   - Introduced to the world of applied maths and operations research which led me to pursue a Ph.D. in optimisation and machine learning.
 - Electrical Engineering from National Institute of Technology, Rourkela in 2012
 
-<div align="center">
+<div align="left">
   
 ![rocket](https://github.githubassets.com/images/icons/emoji/unicode/1f680.png)
   
