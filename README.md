@@ -2,17 +2,37 @@
 
 ## Introduction
 
-Hi, I’m Prakash Mallick, a researcher with a passion for topics related to control theory, machine learning, robotics, and data structures.
+Hi, I’m Prakash Mallick, a researcher with a passion for topics related to control theory, machine learning, robotics, quantitative finance and data structures.
 
-## Work Experience
 
-- Quantitative Engineer/Researcher at Ardea Investment Management 
-  - Collaborated with academics, economists, portfolio managers and other research analysts to deliver market leading analysis for clients. 
-  - Utilised statistical and machine learning research and computing expertise to create valuable business tools.
-  - Applied state-of-the-art-optimisation models, complex data structures and performant machine learning algorithms to deliver solutions to client requests.
+# Professional Experience
 
-- Currently a researcher at AIML (Australian Institute of Machine Learning) 
-  - Focusing on universal domain adaptation and trying to develop novel machine learning techniques for signal processing.
+## Postdoctoral Researcher, AIML, Defence Science and Technology Group (DSTG)
+- Currently a postdoctoral researcher at AIML, working with DSTG on producing capabilities at the intersection of machine learning and signal processing for real-time security and surveillance.
+- Focus on analyzing RF spectrum to detect, identify, and generate models that can learn and generalize in real-time for out-of-distribution data.
+
+## Quantitative Researcher/Engineer, Ardea Investment Management
+- Worked as a quantitative researcher/engineer in the Research team at Ardea Investment Management.
+- Collaborated with academics, economists, portfolio managers, and research analysts to deliver market-leading analysis for clients.
+- Utilized statistical and machine learning research, computing expertise, and state-of-the-art optimization models to develop business tools and perform complex data analysis.
+- Developed and implemented performant machine learning algorithms to deliver solutions to client requests.
+
+## Ph.D. Research in Electrical Engineering, University of Newcastle, Australia
+- Graduated with a Ph.D. in Electrical Engineering, specializing in the intersection of optimal control theory and machine learning, specifically reinforcement learning applied to unknown dynamical systems, mainly in robotic applications.
+- Carried out research on estimating control signal parameters in the presence of measurement noise, resulting in optimal policy with reduced uncertainty and better learning in model-based reinforcement learning frameworks.
+
+## Development of Neuro-Prosthetics, Department of Mechanical Engineering
+- Contributed to the development of neuro-prosthetics for amputees in the Department of Mechanical Engineering.
+- Worked on postural synergy modeling and control algorithms for an Allegro robotic hand.
+- Featured on various Australian news channels for the work done: [Link to video](https://www.youtube.com/watch?v=kMFdP4-7FpM).
+
+## Electrical Excavation Engineer, Coal India Limited
+- Worked as an electrical excavation engineer at Coal India Limited.
+- Optimized production processes using operations research concepts, resulting in reduced machinery usage, downtime, increased productivity, and cost savings.
+- Developed mine plans prioritizing safety, efficiency, and cost-effectiveness through simulation modeling.
+- Provided training and support for efficient operation of heavy engineering equipment like dumpers, loaders, and cranes.
+
+
 
 ## Education
 
