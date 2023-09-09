@@ -57,8 +57,3 @@ Hi, I’m Prakash Mallick, a researcher with a passion for topics related to con
 
 Thank you for visiting my GitHub profile! Feel free to check out my repositories and projects, and don't hesitate to contact me for any questions or collaboration opportunities.
 
----
-
-![wave](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png)  |  ![computer](https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png)  |  ![rocket](https://github.githubassets.com/images/icons/emoji/unicode/1f680.png) 
-:---:|:---:|:---:
-*Connect with me on GitHub* | *Check out my coding skills* | *Let's collaborate on a project*
