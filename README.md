@@ -7,7 +7,7 @@ Hi, I’m Prakash Mallick, a researcher with a passion for topics related to con
 
 # Professional Experience
 
-## Postdoctoral Researcher, AIML, Defence Science and Technology Group (DSTG)
+## Machine Learning Researcher, AIML, Defence Science and Technology Group (DSTG)
 - Currently a postdoctoral researcher at AIML, working with DSTG on producing capabilities at the intersection of machine learning and signal processing for real-time security and surveillance.
 - Focus on analyzing RF spectrum to detect, identify, and generate models that can learn and generalize in real-time for out-of-distribution data.
 
