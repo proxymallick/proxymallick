@@ -1,4 +1,4 @@
-# Prakash Mallick's GitHub Profile
+# Prakash Mallick's Short Bio
 
 ## Introduction
 
