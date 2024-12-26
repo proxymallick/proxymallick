@@ -7,6 +7,12 @@ Hi, I’m Prakash Mallick, a researcher with a passion for topics related to con
 
 # Professional Experience
 
+
+## Senior AI Quant Engineer - Systematic Markets, Commonwealth Bank 
+- As a Senior AI Quant Engineer and Researcher in the Institutional Banking & Markets systematic markets team, I specialize in developing advanced technological solutions that transform complex financial trading processes:
+- Pioneered innovative machine learning systems for bond market analysis, creating predictive models that identify optimal counterparties for credit and non-credit high-grade bond transactions, enhancing trading decision-making precision
+- Spearheading AI democratization initiative across multiple trading disciplines, including Quantitative, Commodities, and Interest Rate Derivatives (IRD) teams, bridging technological gaps and promoting data-driven strategies
+
 ## Machine Learning Researcher, AIML, Defence Science and Technology Group (DSTG)
 - Currently a postdoctoral researcher at AIML, working with DSTG on producing capabilities at the intersection of machine learning and signal processing for real-time security and surveillance.
 - Focus on analyzing RF spectrum to detect, identify, and generate models that can learn and generalize in real-time for out-of-distribution data.
